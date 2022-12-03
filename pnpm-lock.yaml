@@ -19,7 +19,7 @@ specifiers:
   prettier: 2.7.1
   react: 18.2.0
   react-dom: 18.2.0
-  react-message-popup: 1.0.0-alpha.2
+  react-message-popup: 1.0.0
   react-router-dom: 6.4.0
   react-use: 17.4.0
   tailwindcss: 3.1.8
@@ -31,7 +31,7 @@ dependencies:
   ohmyfetch: 0.4.19
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
-  react-message-popup: 1.0.0-alpha.2_biqbaboplfbrettd7655fr4n2y
+  react-message-popup: 1.0.0_biqbaboplfbrettd7655fr4n2y
   react-router-dom: 6.4.0_biqbaboplfbrettd7655fr4n2y
   react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
 
@@ -2974,9 +2974,8 @@ packages:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
     dev: true
 
-  /react-message-popup/1.0.0-alpha.2_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-YQiYMTu+qnlmHHDgTogg8PyDGd6jBxvcOBnioRzxrzOBkLr8yKhbXee7kH22DXghlXCbBZBHNvOdCEUMrvmE7Q==}
-    engines: {pnpm: '>=6'}
+  /react-message-popup/1.0.0_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-fDtLQp29u6nhxtRTfc3f/DBOSLDt8yuAROylv3OQcuStFuKqJnDgmFaFPzkgYf+64x8SsiC7ADQpfZJx6dK8/g==}
     peerDependencies:
       react: ^18.0.0
       react-dom: ^18.0.0
