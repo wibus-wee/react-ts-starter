@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "md5": "2.3.0",
-    "ohmyfetch": "0.4.19",
+    "ohmyfetch": "0.4.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-message-popup": "1.0.0",
